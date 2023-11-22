@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gridea-fatboy2020.vercel.app</id>
+    <title>记录学习</title>
+    <updated>2023-11-22T10:13:23.653Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gridea-fatboy2020.vercel.app"/>
+    <link rel="self" href="https://gridea-fatboy2020.vercel.app/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://gridea-fatboy2020.vercel.app/images/avatar.png</logo>
+    <icon>https://gridea-fatboy2020.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2023, 记录学习</rights>
+    <entry>
+        <title type="html"><![CDATA[笨办法学python3 ex17]]></title>
+        <id>https://gridea-fatboy2020.vercel.app/x-n9fGseW/</id>
+        <link href="https://gridea-fatboy2020.vercel.app/x-n9fGseW/">
+        </link>
+        <updated>2023-11-22T10:03:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用X-ui面板使用v2ray并使用亚马逊cloudfront加速]]></title>
+        <id>https://gridea-fatboy2020.vercel.app/ofuF2IIUd/</id>
+        <link href="https://gridea-fatboy2020.vercel.app/ofuF2IIUd/">
+        </link>
+        <updated>2022-11-01T11:05:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docker安装wordpress开启https]]></title>
+        <id>https://gridea-fatboy2020.vercel.app/sYLHii6qi/</id>
+        <link href="https://gridea-fatboy2020.vercel.app/sYLHii6qi/">
+        </link>
+        <updated>2020-04-08T11:28:56.000Z</updated>
+        <summary type="html"><![CDATA[<div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif; background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(360deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%); background-size: 20px 20px; background-position: center center;"><h2 id="hdockercomposewordpress" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">用docker-compose 安装wordpress</span></h2>
+]]></summary>
+        <content type="html"><![CDATA[<div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif; background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(360deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%); background-size: 20px 20px; background-position: center center;"><h2 id="hdockercomposewordpress" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">用docker-compose 安装wordpress</span></h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国外论文免费下载]]></title>
+        <id>https://gridea-fatboy2020.vercel.app/ruZ7E5Als/</id>
+        <link href="https://gridea-fatboy2020.vercel.app/ruZ7E5Als/">
+        </link>
+        <updated>2020-03-01T11:29:37.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="论文下载">论文下载</h2>
+<p>最近要开始写毕业论文了，但是知网上的论文写起来害怕查重过不了，所以我就想着能不能下载几篇英文论文再翻译过来，这样就很完美了  但是因为疫情的原因不能去学校，挂我们学校的VPN访问国外的文献数据库那叫一个慢啊。我就在网上找了一个免费下载英文文献的网站：sci-hub。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="论文下载">论文下载</h2>
+<p>最近要开始写毕业论文了，但是知网上的论文写起来害怕查重过不了，所以我就想着能不能下载几篇英文论文再翻译过来，这样就很完美了  但是因为疫情的原因不能去学校，挂我们学校的VPN访问国外的文献数据库那叫一个慢啊。我就在网上找了一个免费下载英文文献的网站：sci-hub。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝塔面板安装v2ray]]></title>
+        <id>https://gridea-fatboy2020.vercel.app/tY1MSXnQv/</id>
+        <link href="https://gridea-fatboy2020.vercel.app/tY1MSXnQv/">
+        </link>
+        <updated>2020-02-04T11:26:53.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="简介">简介</h2>
+<p>宝塔面板是一个小白建站神器，但是它的作用远远不止建站，写一下怎么用宝塔面板使用v2ray的websocket再套CDN。<br>
+宝塔面板的安装直接再网上搜索就可以了，很简单这里就不赘述了。我们直接进入正题</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="简介">简介</h2>
+<p>宝塔面板是一个小白建站神器，但是它的作用远远不止建站，写一下怎么用宝塔面板使用v2ray的websocket再套CDN。<br>
+宝塔面板的安装直接再网上搜索就可以了，很简单这里就不赘述了。我们直接进入正题</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[github简单使用说明]]></title>
+        <id>https://gridea-fatboy2020.vercel.app/5kP59_8IN/</id>
+        <link href="https://gridea-fatboy2020.vercel.app/5kP59_8IN/">
+        </link>
+        <updated>2019-12-18T11:22:16.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="首先建立一个密钥并将密钥上传到github">首先建立一个密钥并将密钥上传到github</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="首先建立一个密钥并将密钥上传到github">首先建立一个密钥并将密钥上传到github</h2>
+]]></content>
+    </entry>
+</feed>
